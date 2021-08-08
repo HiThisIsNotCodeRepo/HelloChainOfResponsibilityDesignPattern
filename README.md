@@ -2,8 +2,8 @@
 
 ## Flow
 
-`reception`,`doctor`,`medical`,`cashier` forms a **chain of responsibility** , once the patient start from the head node
-it will be processed and execute to next node.
+`reception`,`doctor`,`medical`,`cashier` forms a **chain of responsibility** , the patient starts from the head node ,
+after processed and then handled to next node.
 
 ## Data Structure
 
