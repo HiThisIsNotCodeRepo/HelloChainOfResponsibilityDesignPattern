@@ -1,5 +1,7 @@
 # HelloChainOfResponsibilityDesignPattern
 
+> [Source](https://golangbyexample.com/chain-of-responsibility-design-pattern-in-golang/)
+
 ## Flow
 
 `reception`,`doctor`,`medical`,`cashier` forms a **chain of responsibility** , the patient starts from the head node ,
